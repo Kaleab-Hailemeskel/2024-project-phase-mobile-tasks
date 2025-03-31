@@ -1,0 +1,16 @@
+[
+  {
+    "id": "123",
+    "name": "Jeans",
+    "description": "Blue Jeans",
+    "price": 1200.0,
+    "imageUrl": "blue_geans.com"
+  },
+  {
+    "id": "123",
+    "name": "Jeans",
+    "description": "Blue Jeans",
+    "price": 1200.0,
+    "imageUrl": "blue_geans.com"
+  }
+]
